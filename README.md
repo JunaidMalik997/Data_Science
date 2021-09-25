@@ -1,2 +1,2 @@
 # Data-Science
-Numpy, Pandas, Matplotlib, Seaborn
+Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks, Geographical Plotting
